@@ -1,0 +1,16 @@
+function run(msg, matches)
+  return "کس ننه بدخواه تی اف بی"
+end
+
+return {
+  description = "سازنده", 
+  usage = "/vip",
+  patterns = {
+    "^/s$",
+    "^اسپم$",
+
+  },
+  run = run
+}
+
+end
