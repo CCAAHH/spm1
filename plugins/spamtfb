@@ -6,7 +6,7 @@ return {
   description = "سازنده", 
   usage = "/vip",
   patterns = {
-    "^/s$",
+    "^!spamtfb$",
     "^اسپم$",
 
   },
